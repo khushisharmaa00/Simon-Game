@@ -1,1 +1,1 @@
-# Simon-Game
+The Simon Game presents a sequence of colors and sounds that the player must memorize and repeat in the correct order. The sequence grows longer and more complex as the game progresses, testing the player's memory retention and recall.
